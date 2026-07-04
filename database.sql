@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS student;
+USE student;
+
+CREATE TABLE IF NOT EXISTS stu_data (
+    roll_no INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    course VARCHAR(100) NOT NULL,
+    branch VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE
+    );
