@@ -91,6 +91,11 @@ private static final String PASSWORD = "YOUR_PASSWORD";
 6. Exit
 ```
 
+`markdown
+Last Updated: 2026-08-26 00:12:34 IST
+
+This section is automatically updated daily at 8:30 AM IST by GitHub Actions.
+
 ---
 
 ## Learning Outcomes
